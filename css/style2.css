@@ -24,7 +24,7 @@ p {font-weight: 200; font-size: 20px;}
 .container {margin: 0 auto; width: 1200px; padding: 120px 12px 50px; overflow: auto;}
 
 .image{
-    padding: 120px;
+    padding: 100px;
     width:12%;
     margin-right:2%;
     float: left;
